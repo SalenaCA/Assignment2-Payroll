@@ -2,6 +2,7 @@
 public class SalesRep  extends StaffMember {
     private double allowance;
 
+    // Constructor
     public SalesRep(String firstName,String lastName, String deptNumber, double hoursWorked,double allowance){
         super(firstName,lastName,deptNumber,hoursWorked);
         this.allowance=allowance;
@@ -24,8 +25,7 @@ public class SalesRep  extends StaffMember {
 
     @Override
     public double calculateSalary() {
-        double pay= (hoursWorked*1500)+allowance;
-        return pay;
+        return (hoursWorked*1500)+allowance;
     }
 
 }
