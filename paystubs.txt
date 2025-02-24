@@ -1,0 +1,45 @@
+First Name: John
+Last name: Brown
+Department Number: Hr1001
+Hours Worked: 50.0
+Allowance: $24000.0
+Salary: $99000.0
+
+
+------------------------------
+First Name: Tracy
+Last name: Brian
+Department Number: Marketing2001
+Hours Worked: 38.0
+Allowance: $16000.0
+Salary: $73000.0
+
+
+------------------------------
+First Name: Lisa
+Last name: Kay
+Department Number: Agent223
+Hours Worked: 41.0
+Allowance: $45000.0
+Salary: $106500.0
+
+
+------------------------------
+First Name: Kimberly
+Last name: Brown
+Department Number: Finance701
+Hours Worked: 80.0
+Allowance: $56000.0
+Salary: $176000.0
+
+
+------------------------------
+First Name: Samantha
+Last name: Tracey
+Department Number: Hr1001
+Hours Worked: 75.0
+Allowance: $80000.0
+Salary: $192500.0
+
+
+------------------------------
